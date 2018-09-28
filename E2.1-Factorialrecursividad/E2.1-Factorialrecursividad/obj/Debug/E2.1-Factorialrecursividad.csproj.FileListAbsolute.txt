@@ -1,0 +1,6 @@
+c:\users\braul\source\repos\E2.1-Factorialrecursividad\E2.1-Factorialrecursividad\bin\Debug\E2.1-Factorialrecursividad.exe.config
+c:\users\braul\source\repos\E2.1-Factorialrecursividad\E2.1-Factorialrecursividad\bin\Debug\E2.1-Factorialrecursividad.exe
+c:\users\braul\source\repos\E2.1-Factorialrecursividad\E2.1-Factorialrecursividad\bin\Debug\E2.1-Factorialrecursividad.pdb
+c:\users\braul\source\repos\E2.1-Factorialrecursividad\E2.1-Factorialrecursividad\obj\Debug\E2.1-Factorialrecursividad.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\E2.1-Factorialrecursividad\E2.1-Factorialrecursividad\obj\Debug\E2.1-Factorialrecursividad.exe
+c:\users\braul\source\repos\E2.1-Factorialrecursividad\E2.1-Factorialrecursividad\obj\Debug\E2.1-Factorialrecursividad.pdb
