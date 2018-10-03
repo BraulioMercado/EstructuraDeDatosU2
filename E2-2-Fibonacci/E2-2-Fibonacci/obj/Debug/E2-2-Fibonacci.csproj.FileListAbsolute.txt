@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\bin\Debug\E2-2-Fibonacci.exe.config
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\bin\Debug\E2-2-Fibonacci.exe
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\bin\Debug\E2-2-Fibonacci.pdb
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\obj\Debug\E2-2-Fibonacci.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\obj\Debug\E2-2-Fibonacci.exe
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\obj\Debug\E2-2-Fibonacci.pdb
+c:\users\braul\source\repos\E2-2-Fibonacci\E2-2-Fibonacci\obj\Debug\E2-2-Fibonacci.csprojResolveAssemblyReference.cache
