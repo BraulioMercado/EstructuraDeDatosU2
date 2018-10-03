@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace E2_2_Fibonacci
 {
@@ -53,18 +54,22 @@ namespace E2_2_Fibonacci
             n = int.Parse(Console.ReadLine());
 
             Console.WriteLine("~~Fibonacci recursivo~~");
+            Stopwatch tiempo = Stopwatch.StartNew();
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine("Fibonnaci posicion " + (i + 1) + " es: " + Clase.FibonacciRecursivo(i));
 
             }
+            Console.WriteLine("Tiempo: " + tiempo.Elapsed.TotalMilliseconds + " milisegundos");
 
             Console.WriteLine("~~Fibonacci Iterativo~~");
+            Stopwatch tiempo2 = Stopwatch.StartNew();
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine("Fibonnaci posicion " + (i +1) + " es: " + Clase.FibonacciIterativo(i));
 
             }
+            Console.WriteLine("Tiempo: " + tiempo2.Elapsed.TotalMilliseconds + " milisegundos");
             Console.ReadKey();
         }
     }
